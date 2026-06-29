@@ -1,8 +1,7 @@
-package Day_7_Class_Task.Array_Task;
-
 import java.util.Arrays;
 
-public class Second_Max {
+public class Second_Max
+{
     public static void main(String[] args) {
         int[] nums = {1, 2, 3, 4, 5};
 
